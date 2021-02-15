@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1>Hello there 👋</h1>
 <p align="center">
-  <h1>Hello there 👋</h1>
   <img src="https://thumbs.gfycat.com/BeneficialShamelessAmphiuma-max-1mb.gif?raw=true" alt="Hello there"/>
 </p>
