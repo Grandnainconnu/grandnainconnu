@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=Grandnainconnu&color=blueviolet)
 <h1>Hello there 👋</h1>
 <p align="center">
   <img src="https://thumbs.gfycat.com/BeneficialShamelessAmphiuma-max-1mb.gif?raw=true" alt="Hello there"/>
