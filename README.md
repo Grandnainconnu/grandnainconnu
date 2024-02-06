@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=Grandnainconnu&color=blueviolet)
 <h1>Hello there 👋</h1>
 <p align="center">
-  <img src="https://thumbs.gfycat.com/BeneficialShamelessAmphiuma-max-1mb.gif?raw=true" alt="Hello there"/>
+  <img src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif" alt="Hello there"/>
 </p>
